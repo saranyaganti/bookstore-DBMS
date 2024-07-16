@@ -1,3 +1,7 @@
+create database bookstore_DBMS;
+
+use bookstore_DBMS;
+
 create table Customers(
 CustomerID INT PRIMARY key,
 FirstName VARCHAR(100),
